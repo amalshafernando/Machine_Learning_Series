@@ -4,8 +4,8 @@
 Day 3 - predict the addition of two numbers analysing a data set and pandas and tkinter libraries of python
 
 ### Day-01
-a. What is Machine Learning (20 min)
-b. AI vs ML vs DL (20 min)
+a. What is Machine Learning (20 min) <br>
+b. AI vs ML vs DL (20 min) <br>
 c. Types of Machine Learning (30 min)
 d. Batch Vs Online Learning(15min)
 e. Batch Vs Online Learning(30min)
