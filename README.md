@@ -82,27 +82,28 @@ c. Regression metrics(40min)
 
 ### Day-15
 Multiple linear regression intuition, mathematical formulation, and implementation(120 min)
+
 ### Day-16
 All about Gradient descent (120min)
 
 ### Day-17
-a. Batch Gradient descent (60min)
-b. Stochastic Gradient descent(40min)
-c. mini-batch Gradient descent(20min)
+a. Batch Gradient descent (60min) <br>
+b. Stochastic Gradient descent(40min) <br>
+c. mini-batch Gradient descent(20min) <br>
 
 ### Day-18
-a. Polynomial Regression (25min)
-b Ridge Regression Gradient(25min)
-c. Lasso Regression(30min)
-d. Elastic net regression(20 min)
+a. Polynomial Regression (25min) <br>
+b Ridge Regression Gradient(25min) <br>
+c. Lasso Regression(30min) <br>
+d. Elastic net regression(20 min) <br>
 
 ### Day-19
 All about Logistic regression (180 min)
 
 ### Day-20
-a. Classification metrics(40min)
-b. SoftMax Regression(40min)
-c. Hyperparameters(20 min)
+a. Classification metrics(40min) <br>
+b. SoftMax Regression(40min) <br>
+c. Hyperparameters(20 min) <br>
 
 ### Day-21
 DAY-22
