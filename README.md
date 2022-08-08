@@ -6,71 +6,71 @@ Day 3 - predict the addition of two numbers analysing a data set and pandas and 
 ### Day-01
 a. What is Machine Learning (20 min) <br>
 b. AI vs ML vs DL (20 min) <br>
-c. Types of Machine Learning (30 min)
-d. Batch Vs Online Learning(15min)
-e. Batch Vs Online Learning(30min)
+c. Types of Machine Learning (30 min) <br>
+d. Batch Vs Online Learning(15min) <br>
+e. Batch Vs Online Learning(30min) <br>
 
 ### Day-02
-a. Instance-based Vs Model-based Learning(15 min)
-b. Challenges in ML(25 min)
-c. Applications of Machine Learning (30 min)
-d. ML development Life Cycle(25min)
-e. Data Engineer Vs Data Analyst Vs Data Scientist Vs ML Engineer (30min)
+a. Instance-based Vs Model-based Learning(15 min) <br>
+b. Challenges in ML(25 min) <br>
+c. Applications of Machine Learning (30 min) <br>
+d. ML development Life Cycle(25min) <br>
+e. Data Engineer Vs Data Analyst Vs Data Scientist Vs ML Engineer (30min) <br>
 
 ### Day-03
-a. Tensors (40 min)
-b. Installing Anaconda/Jupyter and Packages(35 min)
-c. End to End Machine Learning Project Implementation(First ML Project) (45 min)
+a. Tensors (40 min) <br>
+b. Installing Anaconda/Jupyter and Packages(35 min) <br>
+c. End to End Machine Learning Project Implementation(First ML Project) (45 min) <br>
 
 ### Day-04
-a. How to plan a data Science Project(25 min)
-b. Working with CSV files(35 min)
-c. Working with JSON /SQL files (25 min)
-d. Fetching data from API(35min)
+a. How to plan a data Science Project(25 min) <br>
+b. Working with CSV files(35 min) <br>
+c. Working with JSON /SQL files (25 min) <br>
+d. Fetching data from API(35min) <br>
 
 ### Day-05
-a. Fetching data using web scraping(50 min)
-b. Understanding your data(25 min)
-c. EDA using univariate Analysis(40min)
+a. Fetching data using web scraping(50 min) <br>
+b. Understanding your data(25 min) <br>
+c. EDA using univariate Analysis(40min) <br>
 
 ### Day-06
-a. EDA using Bi -variate and multivariate analysis(50 min)
-b. Understanding Pandas(25 min)
-c. Feature Engineering(40 min)
+a. EDA using Bi -variate and multivariate analysis(50 min) <br>
+b. Understanding Pandas(25 min) <br>
+c. Feature Engineering(40 min) <br>
 
 ### Day-07
-a. Feature Scaling(40 min) (Standardization)
-b. Feature Scaling(30min) (Normalization)
-c. Ordinal Encoding(30 min)
+a. Feature Scaling(40 min) (Standardization) <br>
+b. Feature Scaling(30min) (Normalization) <br>
+c. Ordinal Encoding(30 min) <br>
 
 ### Day-08
-a. One Hot Encoding(40 min)
-b. Column Transfer in ML(20min)
-c. ML pipelines(60min)
+a. One Hot Encoding(40 min) <br>
+b. Column Transfer in ML(20min) <br>
+c. ML pipelines(60min) <br>
 
 ### Day-09
-a. Function Transformer(40 min)
-b. Power Transformer(30min)
-c. Binning and Binarization(50min)
+a. Function Transformer(40 min) <br>
+b. Power Transformer(30min) <br>
+c. Binning and Binarization(50min)<br>
 
 ### Day-10
-a. Handling Mixed Variables(15min)
-b. Handling date and time(20min)
-c. Handling missing data Numerical(60min)
-d. Handling missing data categorical(25 min)
+a. Handling Mixed Variables(15min) <br>
+b. Handling date and time(20min) <br>
+c. Handling missing data Numerical(60min) <br><br
+d. Handling missing data categorical(25 min)<br>
 
 ### Day-11
-a. Random sample Imputation(40min)
-b. KNN Imputer(35min)
-c. Multi variate Imputation (35 min)
+a. Random sample Imputation(40min) <br>
+b. KNN Imputer(35min) <br>
+c. Multi variate Imputation (35 min) <br>
 
 ### Day-12
-a. Outliers(20min)
-b. Outlier detection & removal Z score method(20min)
-c. Outlier detection and removal IQR method (20 min)
-d. Outlier detection - Percentage method(20 min)
-e. Feature construction (20 min)
-f. Curse of dimensionality (20 min)
+a. Outliers(20min) <br>
+b. Outlier detection & removal Z score method(20min) <br>
+c. Outlier detection and removal IQR method (20 min) <br>
+d. Outlier detection - Percentage method(20 min) <br>
+e. Feature construction (20 min) <br>
+f. Curse of dimensionality (20 min) <br>
 
 ### Day-13
 Principal Component analysis with implementations (120 min)
